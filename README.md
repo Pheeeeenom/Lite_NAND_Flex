@@ -1,4 +1,4 @@
-# Lite_Flex
+# Lite_NAND_Flex
 
 This was made for educational purposes only.
 
