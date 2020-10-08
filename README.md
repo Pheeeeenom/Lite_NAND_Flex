@@ -2,4 +2,4 @@
 
 This was made for educational purposes only.
 
-![stiffener](“stiffener_location.png”)
+![stiffener](https://github.com/Pheeeeenom/Lite_NAND_Flex/blob/main/stiffener_location.png?raw=true)
